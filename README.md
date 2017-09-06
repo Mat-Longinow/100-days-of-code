@@ -10,9 +10,9 @@ I will do a mixture of building projects through Stack Social's online courses o
 
 So, here is to coding! 100 days, here I come...
 
-##Contact Me
+## Contact Me
 
-Feel free to hit me up with any questions, comments, or encouragements! You can either follow me on [twitter](http://twitter.com/sincerelymat) or email me: mat.longinow@gmail.com.
+Feel free to hit me up with any questions, comments, or encouragements! You can either follow me on [twitter](http://twitter.com/sincerelymat) or email me --> mat.longinow@gmail.com.
 
 ## Contents
 * [Rules](rules.md)
