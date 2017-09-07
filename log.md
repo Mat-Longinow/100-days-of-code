@@ -8,8 +8,17 @@
 
 ### Day 2: Sep 6, 2017
 
+**Today's Progress:** Made some headway on my Budget project. Mainly getting the Bank Info widget sorted out (design wise anyways). Coding is so fun!
+
+**Thoughts:** Had some troubles with Bootstrap's pull-right interacting with the button, it made it get knocked out of it's parent element. Had to do a hack instead :( I hate using unsunstainable solutions...
+
+**Link to work:**
+
+### Day 3: Sep 7, 2017
+
 **Today's Progress:**
 
 **Thoughts:**
 
 **Link to work:**
+
