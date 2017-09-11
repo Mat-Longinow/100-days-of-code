@@ -16,9 +16,17 @@
 
 ### Day 3: Sep 7, 2017
 
-**Today's Progress:**
+**Today's Progress:** Worked on my Budget project and tried to make some headway in React learning.
 
-**Thoughts:**
+**Thoughts:** Got really frustrated with the React course I started with Skill Stack. The teacher was not explaing a lot of what he was doing with his code, quickly moving through lots of lines of React he was writing, which gave me no context of how to pull those ideas out and manipulate them for my own use in other places.
 
 **Link to work:**
+
+### Day 4: Sep 10, 2017
+
+**Today's Progress:** Working on my personal website today. Specifically getting Google Analytics to work on it (which it hadn't before), as well as working on my contact page.
+
+**Thoughts:** Super pumped to get GA to work! It was a pain the last time I tried it. Oddly enough, I just recopied it over and that did the trick. Strange...
+
+**Link to work:** [myprogrammingjourney.com][www.myprogrammingjourney.com]
 
