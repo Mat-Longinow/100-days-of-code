@@ -28,5 +28,5 @@
 
 **Thoughts:** Super pumped to get GA to work! It was a pain the last time I tried it. Oddly enough, I just recopied it over and that did the trick. Strange...
 
-**Link to work:** [myprogrammingjourney.com][www.myprogrammingjourney.com]
+**Link to work:** [myprogrammingjourney.com](www.myprogrammingjourney.com)
 
