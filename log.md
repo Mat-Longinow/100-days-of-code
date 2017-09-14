@@ -30,3 +30,11 @@
 
 **Link to work:** [myprogrammingjourney.com](www.myprogrammingjourney.com)
 
+### Day 5: Sep 13, 2017
+
+**Today's Progress:** Worked on a tech assessment for a local bootcamp. Won't be attending, but super helpful to test myself and learn!
+
+**Thoughts:** I really enjoyed the learning process today as I explored more jQuery things and just regular old JavaScript. I almost thought I would need a while loop but it turned out I just needed an if statement. Ah well, while loop, your time will come.
+
+**Link to work:**
+
