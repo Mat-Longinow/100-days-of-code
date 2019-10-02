@@ -1,40 +1,24 @@
 # 100 Days Of Code - Log
 
-### Day 1: Sep 5, 2017
+### Day 1: Oct 1, 2019
 
-**Today's Progress**: Setup the GitHub fork for my challenge and rearranged/edited files. Also made some minor edits to my Budget project.
+####Today's Progress
 
-**Thoughts:** I am excited to begin! Who knows what I will be able to accomplish in the next 100 days, but I am excited to buckle down and focus on my self-development journey.
+Getting Started:
+- Revamp GitHub project
+- Brainstorm projects
+- Find my WHY or Big Goal
+- Begin setting up boilerplate
 
-### Day 2: Sep 6, 2017
+**Big Goal**
 
-**Today's Progress:** Made some headway on my Budget project. Mainly getting the Bank Info widget sorted out (design wise anyways). Coding is so fun!
+I want to be able to take on clients on the side to make additional income to help pay off debt and save for our growing family. I also want to set myself up to apply for a programming position.
 
-**Thoughts:** Had some troubles with Bootstrap's pull-right interacting with the button, it made it get knocked out of it's parent element. Had to do a hack instead :( I hate using unsunstainable solutions...
+In order to do this, I need to start making client-like websites that are good enough that people would pay for them.
 
-**Link to work:**
 
-### Day 3: Sep 7, 2017
 
-**Today's Progress:** Worked on my Budget project and tried to make some headway in React learning.
+####Thoughts:
+It is crazy thinking that the last time I tried the 100 Day Coding Challenge, was two years ago! Time flies.
 
-**Thoughts:** Got really frustrated with the React course I started with Skill Stack. The teacher was not explaing a lot of what he was doing with his code, quickly moving through lots of lines of React he was writing, which gave me no context of how to pull those ideas out and manipulate them for my own use in other places.
-
-**Link to work:**
-
-### Day 4: Sep 10, 2017
-
-**Today's Progress:** Working on my personal website today. Specifically getting Google Analytics to work on it (which it hadn't before), as well as working on my contact page.
-
-**Thoughts:** Super pumped to get GA to work! It was a pain the last time I tried it. Oddly enough, I just recopied it over and that did the trick. Strange...
-
-**Link to work:** [myprogrammingjourney.com](www.myprogrammingjourney.com)
-
-### Day 5: Sep 13, 2017
-
-**Today's Progress:** Worked on a tech assessment for a local bootcamp. Won't be attending, but super helpful to test myself and learn!
-
-**Thoughts:** I really enjoyed the learning process today as I explored more jQuery things and just regular old JavaScript. I almost thought I would need a while loop but it turned out I just needed an if statement. Ah well, while loop, your time will come.
-
-**Link to work:**
-
+While I just had a baby and this might not seem like the ideal time, I think this is perfect since if I can build motivation in such an up and down time, I can be motivated at any time.
