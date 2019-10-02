@@ -22,4 +22,5 @@ Feel free to hit me up with any questions, comments, or encouragements! You can 
 ## Contents
 * [Rules](rules.md)
 * [Log - click here to see my progress](log.md)
-* [Resources](resources.md)
+* [Big Goal](big-goal.md)
+* [Roadmap](roadmap.md)
