@@ -12,6 +12,9 @@ It can be easy to either get stuck, apathetic or just busy, when it comes to sel
 
 So, here is to coding! 100 days, here I come...
 
+## Big Goal
+This is my WHY, the driving force behind my 100 Day Challenge, and ultimately, where I really want to go with my programming learning.
+
 ## Roadmap
 You can check out my strategy of what ideas and goals I will be running towards in my [Roadmap](roadmap.md)
 
