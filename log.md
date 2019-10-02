@@ -5,10 +5,9 @@
 ####Today's Progress
 
 Getting Started:
-- Revamp GitHub project
+- Revamp GitHub project, get it re-synced with local repo
 - Brainstorm projects
 - Find my WHY or Big Goal
-- Begin setting up boilerplate
 
 **Big Goal**
 
