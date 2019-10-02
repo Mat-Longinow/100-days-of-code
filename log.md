@@ -9,14 +9,6 @@ Getting Started:
 - Brainstorm projects
 - Find my WHY or Big Goal
 
-**Big Goal**
-
-I want to be able to take on clients on the side to make additional income to help pay off debt and save for our growing family. I also want to set myself up to apply for a programming position.
-
-In order to do this, I need to start making client-like websites that are good enough that people would pay for them.
-
-
-
 #### Thoughts:
 It is crazy thinking that the last time I tried the 100 Day Coding Challenge, was two years ago! Time flies.
 
