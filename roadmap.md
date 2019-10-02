@@ -1,6 +1,6 @@
-#Roadmap
+# Roadmap
 
-###About
+### About
 This will be a short, outlined plan for what projects I want to work on to reach my Big Goal.
 
 #### Project #1 - Revamp Personal Website
