@@ -34,5 +34,15 @@ Want to understand the concepts being referenced in things I am reading and even
 ### Day 3: Oct 3, 2019
 
 #### Today's Progress
+- Node.js & Express.js Implementation Planning
+- Set Up Digital Ocean Web Server To Prep For Deployment
+
+#### Thoughts:
+I totally worked backwards here, but I had a big question mark about how I would actually "run" my app on the internet.
+This affects the way I build the site, because if I am going to load it dynamically, I needed to understand how that would all work out. Now I know!
+
+### Day 4: Oct 4, 2019
+
+#### Today's Progress
 
 #### Thoughts:
