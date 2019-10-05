@@ -44,5 +44,15 @@ This affects the way I build the site, because if I am going to load it dynamica
 ### Day 4: Oct 4, 2019
 
 #### Today's Progress
+- Set up Trello board to create a poor man's Jira board
+- Configured WebServer, install Node, npm, nodemon, express
+- Set up boilterplate for my Portfolio revamp
+#### Thoughts:
+Decided today that I need to redo the entire skeleton of my portfolio to be dynamically loaded using Node and Express. So... this became a whole lot more complicated. Should be fun though!
+
+
+### Day 5: Oct 5, 2019
+
+#### Today's Progress
 
 #### Thoughts:
