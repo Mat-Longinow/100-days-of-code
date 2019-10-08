@@ -54,5 +54,27 @@ Decided today that I need to redo the entire skeleton of my portfolio to be dyna
 ### Day 5: Oct 5, 2019
 
 #### Today's Progress
+- Found and started Express crash course
+
+#### Thoughts:
+Got stonewalled a little. Realized I didn't know as much about Express as I thought, so I am watching a little Crash Course on it to understand how to use it better.
+
+
+### Day 6: Oct 7, 2019
+
+#### Today's Progress
+- Learned a ton:
+   - Routing
+      - Handlers/Callback Functions
+      - HTTP Methods
+      - Paths (specifically Route Parameters)
+
+#### Thoughts:
+So many light bulbs happened tonight! So much fun. Routing became so much more clear. Not a lot of coding, but I sat down and read through Express' documentation on Routing and... it clicked! Great feeling.
+
+
+### Day 7: Oct 8, 2019
+
+#### Today's Progress
 
 #### Thoughts:
