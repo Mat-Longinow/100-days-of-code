@@ -76,5 +76,27 @@ So many light bulbs happened tonight! So much fun. Routing became so much more c
 ### Day 7: Oct 8, 2019
 
 #### Today's Progress
+- Leet Code Example
+- Walking through Programming concepts with my friend Nick V.K.
+
+#### Thoughts:
+Processing out my programming journey with close friends in coding is always SO helpful. Gives me bearing and validates my journey.
+
+### Day 8: Oct 9, 2019
+
+#### Today's Progress
+- Worked on boiler plate
+   - Set up public directory using express routing
+
+- Continued with express tutorial
+- More express/Node.js researching!
+
+#### Thoughts:
+Sometimes things can feel a bit slow. I am really trying to make sure I am understanding every part of the code I am writing (or at least the large majority of it).
+Also, excited for the progress I am making and how much I feel I am learning!
+
+### Day 9: Oct 10, 2019
+
+#### Today's Progress
 
 #### Thoughts:
