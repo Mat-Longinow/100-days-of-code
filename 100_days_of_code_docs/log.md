@@ -95,8 +95,27 @@ Processing out my programming journey with close friends in coding is always SO 
 Sometimes things can feel a bit slow. I am really trying to make sure I am understanding every part of the code I am writing (or at least the large majority of it).
 Also, excited for the progress I am making and how much I feel I am learning!
 
-### Day 9: Oct 10, 2019
+### Day 9: Oct 12, 2019
 
 #### Today's Progress
+- More Express Tutorial work
 
 #### Thoughts:
+
+### Day 10: Oct 13, 2019
+
+#### Today's Progress
+- Learning about Template Engines
+- Building out more of the boilerplate for my revamped site
+
+#### Thoughts:
+
+### Day 11: Oct 14, 2019
+
+#### Today's Progress
+- Received data from a User form submission
+- Put that data into an object
+- Put that object into an array index
+
+#### Thoughts:
+Man, sometimes it is just baby steps, but the fact I was able to receive data from a form, put it into an object and then push that object into an array... man, that feels really good. Worth celebrating in my book.
