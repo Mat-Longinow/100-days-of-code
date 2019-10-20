@@ -147,4 +147,4 @@ Holy smokes. I spent 3 hours this evening coding and it flew by in the blink of 
 
 
 #### Thoughts:
-Man. This last stretch has been SO much fun. I think the main difference is actually being able to spend time flexing my knowledge of what I am learning and actually building and learning as I build. It is so enthralling!
+Man, this last stretch has been SO much fun. I think the main difference is actually being able to spend time flexing my knowledge of what I am learning and actually building and learning as I build. It is so enthralling!
