@@ -140,7 +140,7 @@ Holy smokes. I spent 3 hours this evening coding and it flew by in the blink of 
 
 
 ### Day 14: Oct 19, 2019
-- Set up UI <ul> list to check the backend to see what users are logged in and create a <li> for them if that <li> doesn't already exist
+- Set up UI ul list to check the backend to see what users are logged in and create a li for them if that li doesn't already exist
 - Patted myself on the back
 
 
