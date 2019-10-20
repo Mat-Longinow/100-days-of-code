@@ -140,9 +140,11 @@ Holy smokes. I spent 3 hours this evening coding and it flew by in the blink of 
 
 
 ### Day 14: Oct 19, 2019
+
+#### Today's Progress
 - Set up UI ul list to check the backend to see what users are logged in and create a li for them if that li doesn't already exist
 - Patted myself on the back
 
 
-#### Today's Progress
+#### Thoughts:
 Man. This last stretch has been SO much fun. I think the main difference is actually being able to spend time flexing my knowledge of what I am learning and actually building and learning as I build. It is so enthralling!
