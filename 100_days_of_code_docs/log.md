@@ -119,3 +119,30 @@ Also, excited for the progress I am making and how much I feel I am learning!
 
 #### Thoughts:
 Man, sometimes it is just baby steps, but the fact I was able to receive data from a form, put it into an object and then push that object into an array... man, that feels really good. Worth celebrating in my book.
+
+
+### Day 12: Oct 16, 2019
+
+#### Today's Progress
+- Looked at MVC real time project
+- Chatted through concepts with a friend
+
+#### Thoughts:
+Listening to another, farther along, dev is both inspiring and intimidating at the same time. Always helpful, though, to articulate my thoughts and mental constructs to another person to make sure I am understanding things.
+
+### Day 13: Oct 18, 2019
+
+#### Today's Progress
+-  Login/Logout Modal O.o
+
+#### Thoughts:
+Holy smokes. I spent 3 hours this evening coding and it flew by in the blink of an eye. I was having so much fun! So many eureka moments tonight. This is the kinda stuff that made me fall in love with coding.
+
+
+### Day 14: Oct 19, 2019
+- Set up UI <ul> list to check the backend to see what users are logged in and create a <li> for them if that <li> doesn't already exist
+- Patted myself on the back
+
+
+#### Today's Progress
+Man. This last stretch has been SO much fun. I think the main difference is actually being able to spend time flexing my knowledge of what I am learning and actually building and learning as I build. It is so enthralling!

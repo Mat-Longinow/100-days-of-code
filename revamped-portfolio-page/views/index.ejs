@@ -1,7 +1,9 @@
 <% include partials/header %>
-        <h1>Add Customer</h1>
+        <h1>Sign Up</h1>
 
-        <form method="POST" action="/users/add" target="_top">
+        <iframe width="0" height="0" border="0" name="dummyframe" id="dummyframe"></iframe>
+
+        <form method="POST" action="/users/add" target="dummyframe">
                 <labeL>First Name</labeL><br>
                 <input type="text" name="first_name">
                 <br>
@@ -10,14 +12,104 @@
                 <br>
                 <labeL>Email</labeL><br>
                 <input type="text" name="email">
+                <br>
+                <labeL>Password</labeL><br>
+                <input type="text" name="password">
+                <br>
                 <input type="submit" value="Submit">
         </form>
 
-        <h2>Welcome <%= title %></h2>
 
-        <ul>
-        <% users.forEach(function(user){ %>
-            <li><%= user.first_name %> <%= user.last_name %></li>
-        <% }) %>
+        <h1>Login</h1>
+        <form method="POST" action="/users/login" target="dummyframe">
+                <labeL>Email</labeL><br>
+                <input type="text" name="email">
+                <br>
+                <labeL>Password</labeL><br>
+                <input type="text" name="password">
+                <br>
+                <input id="login-btn" type="submit" value="Submit">
+        </form>
+
+        <h1>Logout</h1>
+        <form method="POST" action="/users/logout" target="dummyframe">
+                <labeL>Email</labeL><br>
+                <input type="text" name="email">
+                <br>
+                <labeL>Password</labeL><br>
+                <input type="text" name="password">
+                <br>
+                <input id="logout-btn" type="submit" value="Submit">
+        </form>
+
+        <h2>Users Online</h2>
+
+        <ul id="loggedInList">
         </ul>
+
 <% include partials/footer %>
+
+<script>
+        const getUsers = () => {
+                $.get('/users', (data) => {
+                        users = data;
+
+                        console.log('getUsers users', data)
+                });
+        };
+
+
+
+        const fillList = () => {
+                users.forEach((element) => {
+                        if (element.logged_in === 1) {
+                                let list_item = document.createElement("LI");
+
+                                let text_node = document.createTextNode(element.first_name + " " + element.last_name);
+
+                                list_item.appendChild(text_node);
+
+                                list_item.setAttribute("id", element.first_name + " " + element.last_name);
+
+                                document.getElementById('loggedInList').appendChild(list_item);
+                        };
+                });
+        };
+
+        const editList = () => {
+                getUsers()
+
+                setTimeout(() => {
+                        users.forEach((element) => {
+                                if(element.logged_in === 1 && !(document.getElementById(element.first_name + " " + element.last_name))) {
+                                        let list_item = document.createElement("LI");
+
+                                        let text_node = document.createTextNode(element.first_name + " " + element.last_name);
+
+                                        list_item.appendChild(text_node);
+
+                                        list_item.setAttribute("id", element.first_name + " " + element.last_name);
+
+                                        document.getElementById('loggedInList').appendChild(list_item);
+                                } else if(element.logged_in === 0 && document.getElementById(element.first_name + " " + element.last_name)) {
+                                        document.getElementById(element.first_name + " " + element.last_name).remove();
+                                };
+                        });
+
+                }, 2000)
+        };
+
+        $('#login-btn').click(() => {
+                setTimeout(editList, 2000);
+        })
+
+        $('#logout-btn').click(() => {
+                setTimeout(editList, 2000);
+        })
+
+        var users;
+
+        getUsers();
+
+        setTimeout(fillList, 2000);
+</script>
