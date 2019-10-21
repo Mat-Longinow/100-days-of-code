@@ -31,16 +31,17 @@
                 <input id="login-btn" type="submit" value="Submit">
         </form>
 
-        <h1>Logout</h1>
-        <form method="POST" action="/users/logout" target="dummyframe">
-                <labeL>Email</labeL><br>
-                <input type="text" name="email">
-                <br>
-                <labeL>Password</labeL><br>
-                <input type="text" name="password">
-                <br>
-                <input id="logout-btn" type="submit" value="Submit">
-        </form>
+        <% if() %>
+                <h1>Logout</h1>
+                <form method="POST" action="/users/logout" target="dummyframe">
+                        <labeL>Email</labeL><br>
+                        <input type="text" name="email">
+                        <br>
+                        <labeL>Password</labeL><br>
+                        <input type="text" name="password">
+                        <br>
+                        <input id="logout-btn" type="submit" value="Submit">
+                </form>
 
         <h2>Users Online</h2>
 

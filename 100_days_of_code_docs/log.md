@@ -148,3 +148,15 @@ Holy smokes. I spent 3 hours this evening coding and it flew by in the blink of 
 
 #### Thoughts:
 Man, this last stretch has been SO much fun. I think the main difference is actually being able to spend time flexing my knowledge of what I am learning and actually building and learning as I build. It is so enthralling!
+
+
+### Day 15: Oct 20, 2019
+
+#### Today's Progress
+- Decided next step (spoiler, setting p MySQL DB)
+- Looked through several MySQL/Express examples of how other people built out apps with this combo
+- Started a mini MySQL/Express walkthrough of how to set up an app with both of these technologies
+
+#### Thoughts:
+Today was a little bit harder. Stalled out a bit trying to figure out what to do next. Moving towards MySQL since that is what my work uses, and seems to be in more common demand.
+I love the idea of learning a database, but they seem fairly complex, so it is a bit daunting.
