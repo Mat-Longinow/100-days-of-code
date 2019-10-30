@@ -160,3 +160,22 @@ Man, this last stretch has been SO much fun. I think the main difference is actu
 #### Thoughts:
 Today was a little bit harder. Stalled out a bit trying to figure out what to do next. Moving towards MySQL since that is what my work uses, and seems to be in more common demand.
 I love the idea of learning a database, but they seem fairly complex, so it is a bit daunting.
+
+
+### Day 16: Oct 22, 2019
+
+#### Today's Progress
+- Started working with MySQL
+- Set up SequelPro with my localhost DB
+
+#### Thoughts:
+So excited! Once I get my head around MySQL I really can get a true end to end web app up and running soon!
+
+
+### Day 17: Oct 29, 2019
+
+#### Today's Progress
+- More MySQL work
+
+#### Thoughts:
+I am over the moon about learning MySQL. Wanted to learn a DB for a while now, and it really feels like it is clicking! Helps I have worked with Jira's JQL which people say is similar to MySQL.
