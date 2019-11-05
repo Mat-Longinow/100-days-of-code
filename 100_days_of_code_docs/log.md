@@ -179,3 +179,14 @@ So excited! Once I get my head around MySQL I really can get a true end to end w
 
 #### Thoughts:
 I am over the moon about learning MySQL. Wanted to learn a DB for a while now, and it really feels like it is clicking! Helps I have worked with Jira's JQL which people say is similar to MySQL.
+
+
+### Day 18: Nov 4, 2019
+
+#### Today's Progress
+- Set up a table for Test App use
+- Learned how to log data into the table I created
+- Saw results on Sequel Pro
+
+#### Thoughts:
+It is so fun learning MySQL and DB things. Makes me feel like I can actually build something solid back to front.

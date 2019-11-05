@@ -4,15 +4,6 @@ const path = require('path');
 const app = express();
 const port = 3000;
 
-
-// You can create your own middleware for Express to use
-// let logger = (req, res, next) => {
-//     console.log('Logging...');
-//     next();
-// };
-// app.use(logger);
-
-// View Engine
 app.set('view engine', 'ejs');
 app.set('views', path.join(__dirname, 'views'));
 
