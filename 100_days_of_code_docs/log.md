@@ -190,3 +190,16 @@ I am over the moon about learning MySQL. Wanted to learn a DB for a while now, a
 
 #### Thoughts:
 It is so fun learning MySQL and DB things. Makes me feel like I can actually build something solid back to front.
+
+
+### Day 19: Nov 8, 2019
+
+#### Today's Progress
+SO MUCH GOT DONE TODAY!
+
+- Hooked up MySQL to my test webapp
+- Got data to be able to save, delete, update, etc to my database using my webapp
+- Setup database on DigitalOcean
+
+#### Thoughts:
+I coded for 3+ hours today! I couldn't stop. It was so so fun. I love what I am learning. Excited to build a real world app!
