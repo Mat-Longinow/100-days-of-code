@@ -1,0 +1,14 @@
+Specs:
+- Logs in to Southwest Pilot's Dashboard programmatically
+- Scrapes data from site
+- Sends out a text with the data found on the site
+- Loops on a timer
+
+(Optional)
+- Log in page where Will can set his login credentials in case they ever change
+- Text responses where he can text in certain information to make the app respond
+
+Steps:
+- Set up Twilio and send out a text message
+- Scrape data from a random site using Cheerio & Request libraries
+- Set up Nightmate.JS to navigate to a site
