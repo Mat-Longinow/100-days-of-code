@@ -1,12 +1,12 @@
-const accountSid = 'AC767c3e457efb5b99f99892c3571e745e';
-const authToken = '787706dc826247d1c6e91daf6a846425';
+const accountSid = process.env.TWILIO_ACCOUNT_SID;
+const authToken = process.env.TWILIO_AUTH_TOKEN;
 const client = require('twilio')(accountSid, authToken);
 
 exports.sendMessage = function(body) {
     client.messages
         .create({
             body: body,
-            from: '+17148315612',
+            from: '+17143404784',
             to: '+19516409304'
         })
         .then(
