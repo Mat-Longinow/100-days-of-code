@@ -24,7 +24,6 @@ function scrapeHTML() {
         });
     });
 }
-
 scrapeHTML()
     .then((body) => {
         twil.sendMessage(body);

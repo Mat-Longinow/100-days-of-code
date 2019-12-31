@@ -21,3 +21,11 @@ Round 3. Let's do this.
 
 #### Thoughts:
 Got stuck on promises, mine isn't working. This is super fun though! Taking small steps forward and learning a lot in the meantime.
+
+### Day 3: Dec 30, 2019
+
+#### Today's Progress
+- Got my promise to work correctly! Now texts are being via functions firing in the right order.
+
+#### Thoughts:
+Promises are still kicking my butt. One step at a time. My brain hurts.
