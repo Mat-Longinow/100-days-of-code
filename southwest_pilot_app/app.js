@@ -17,13 +17,17 @@ function scrapeHTML() {
                 const $ = cheerio.load(html);
 
                 aboutMe = $("#aboutMe > div > div:nth-child(2) > div:nth-child(2) > p:nth-child(1)").html();
+
+                resolve(aboutMe); // Not sure why this has to, in essence, return aboutMe in order for aboutMe to reflect the above change outside the scope of this promise
+            } else {
+                console.log(res.statusCode, err);
+
+                reject();
             }
-
-            resolve(aboutMe); // Not sure why this has to, in essence, return aboutMe in order for aboutMe to reflect the above change outside the scope of this promise
-
         });
     });
 }
+
 scrapeHTML()
     .then((body) => {
         twil.sendMessage(body);

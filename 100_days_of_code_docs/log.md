@@ -29,3 +29,11 @@ Got stuck on promises, mine isn't working. This is super fun though! Taking smal
 
 #### Thoughts:
 Promises are still kicking my butt. One step at a time. My brain hurts.
+
+### Day 4: Jan 1, 2020
+
+#### Today's Progress
+- Not much, still working on getting my head wrapped around promises/async/await
+
+#### Thoughts:
+Promises are still kicking my butt. One step at a time. My brain hurts. (Yes I meant to duplicate that).
