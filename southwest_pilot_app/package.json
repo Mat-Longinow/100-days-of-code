@@ -9,6 +9,7 @@
     "express": "^4.17.1",
     "nightmare": "^3.0.2",
     "nodemon": "^2.0.2",
+    "puppeteer": "^2.0.0",
     "request": "^2.88.0",
     "twilio": "^3.39.0"
   },
