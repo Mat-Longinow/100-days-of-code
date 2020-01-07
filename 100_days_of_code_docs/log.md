@@ -58,3 +58,12 @@ Had to nuke my git init, and start over. End up losing hours worth of worth and 
 #### Thoughts:
 SO FUN! Currently have round one of the app done. It can log in to my SCE account, scrape data on my current bill, and text it to me. Flawlessly. I LOVE THIS STUFF!
 My wife actually told me she was impressed when I showed her. Feeling good :)
+
+### Day 7: Jan 6, 2020
+
+#### Today's Progress
+- Started the process of deployment
+
+#### Thoughts:
+I realize I am doing things a bit backwards, but I want to get my prototype live and then begin tweaking it while it is out and actually operational.
+Lots to learn in the deployment world, but it is fun!
