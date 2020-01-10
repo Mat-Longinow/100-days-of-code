@@ -67,3 +67,11 @@ My wife actually told me she was impressed when I showed her. Feeling good :)
 #### Thoughts:
 I realize I am doing things a bit backwards, but I want to get my prototype live and then begin tweaking it while it is out and actually operational.
 Lots to learn in the deployment world, but it is fun!
+
+### Day 8: Jan 10, 2020
+
+#### Today's Progress
+- Found a bug in the project, had to de-bug and got stuck. Hooray!
+
+#### Thoughts:
+I kinda liked feeling stuck, it makes it challenging. Just hopefully not toooo challenging.

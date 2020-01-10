@@ -1,10 +1,11 @@
 const puppeteer = require('puppeteer');
 const twil = require('./send_message.js');
+require('dotenv').config();
 
 exports.scrapeInit = () => {
     (async () => {
         try {
-            const browser = await puppeteer.launch();
+            const browser = await puppeteer.launch({headless: false});
             const page = await browser.newPage();
 
             await page.goto('http://sce.com');
