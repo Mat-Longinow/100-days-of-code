@@ -4,6 +4,15 @@ const bodyParser = require('body-parser');
 const path = require('path');
 const app = express();
 const port = 3000;
+const dotenv = require("dotenv").config({path: `${__dirname}/.env`});
+const result = dotenv.config();
+
+if (result.error) {
+    throw result.error
+}
+
+console.log(result.parsed);
+
 
 // Create Connection
 var db = mysql.createConnection({

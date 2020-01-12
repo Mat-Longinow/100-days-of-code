@@ -75,3 +75,12 @@ Lots to learn in the deployment world, but it is fun!
 
 #### Thoughts:
 I kinda liked feeling stuck, it makes it challenging. Just hopefully not toooo challenging.
+
+### Day 9: Jan 12, 2020
+
+#### Today's Progress
+- Found out that dotenv's debugging is terrible... but I learned how to use it
+- Became more comfortable with reading through documentation
+
+#### Thoughts:
+GRrr.... dotenv is driving me bananas. I have not spent several hours trying to debug why dotenv is not loading my environment variables.
