@@ -84,3 +84,13 @@ I kinda liked feeling stuck, it makes it challenging. Just hopefully not toooo c
 
 #### Thoughts:
 GRrr.... dotenv is driving me bananas. I have not spent several hours trying to debug why dotenv is not loading my environment variables.
+
+### Day 10: Jan 13, 2020
+
+#### Today's Progress
+- Debugged dotenv environment variables
+- Figured out how to continue to update my app after it goes to digitalocean
+
+#### Thoughts:
+I feel so dang accomplished by figuring out what was going on with dotenv. Their debugger helped me NONE at all, which is frustrating,
+but I was going to post a question to stack overflow when, as I was figuring out how to state my problem, I realized my mistake and corrected it.

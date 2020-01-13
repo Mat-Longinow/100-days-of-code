@@ -2,11 +2,9 @@ require('dotenv').config({debug: true});
 const express = require('express');
 const app = express();
 const port = 3000;
-// const scrape = require('./scrape.js');
+const scrape = require('./scrape.js');
 
-// scrape.scrapeInit();
-
-console.log(process.env.TEST);
+scrape.scrapeInit();
 
 app.get('/', (req, res) => res.send('Hello World!'));
 

@@ -5,14 +5,14 @@ require('dotenv').config();
 exports.scrapeInit = () => {
     (async () => {
         try {
-            const browser = await puppeteer.launch({headless: false});
+            const browser = await puppeteer.launch();
             const page = await browser.newPage();
 
             await page.goto('http://sce.com');
 
             await page.waitFor(1000);
 
-            await page.type('#userName', process.env.USER);
+            await page.type('#userName', process.env.USERNAME);
             await page.type('#password', process.env.PASS);
             await page.click('#homePageLogin');
 
