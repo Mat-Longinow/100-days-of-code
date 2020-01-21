@@ -94,3 +94,13 @@ GRrr.... dotenv is driving me bananas. I have not spent several hours trying to 
 #### Thoughts:
 I feel so dang accomplished by figuring out what was going on with dotenv. Their debugger helped me NONE at all, which is frustrating,
 but I was going to post a question to stack overflow when, as I was figuring out how to state my problem, I realized my mistake and corrected it.
+
+### Day 13: Jan 20, 2020
+
+#### Today's Progress
+- Got app up and FULLY FUNCTIONING on digital ocean server
+- Setup pm2 to keep app up and running
+- Configured Twilio to point their webhook to my live digitalocean server
+
+#### Thoughts:
+I DID IT!! Holy smokes. Watching the pm2 logger walking through the console logs I created as the app's code ran was SO SATISFYING.

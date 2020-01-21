@@ -1,6 +1,6 @@
 const puppeteer = require('puppeteer');
 const twil = require('./send_message.js');
-require('dotenv').config();
+
 
 exports.scrapeInit = () => {
     (async () => {
@@ -34,7 +34,11 @@ exports.scrapeInit = () => {
 
             await browser.close();
 
-            twil.sendMessage(foundData[0], foundData[1]);
+            if(foundData[0] === undefined || foundData[1] === undefined) {
+                twil.errorMessage();
+            }else{
+                twil.sendMessage(foundData[0], foundData[1]);
+            }
 
         } catch (err) {
             console.log(Error(err));
