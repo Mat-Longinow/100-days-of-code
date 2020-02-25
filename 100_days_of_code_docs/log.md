@@ -18,3 +18,11 @@ But I am diving in to my side project and got a lot to unravel.
 
 #### Thoughts:
 So cool! Local/session/cookie storage always intimidated me, but turns out it isn't all that crazy after all.
+
+### Day 3: Feb 24rd, 2020
+
+#### Today's Progress
+- Refactored code to take out conversation back and forth into its own module
+
+#### Thoughts:
+Stuck, stuck, stuck. Can't get the text to send from another linked module even though the same code executes within the root app.js file. But man am I having fun!
