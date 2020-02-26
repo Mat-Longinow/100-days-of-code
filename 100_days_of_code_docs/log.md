@@ -26,3 +26,13 @@ So cool! Local/session/cookie storage always intimidated me, but turns out it is
 
 #### Thoughts:
 Stuck, stuck, stuck. Can't get the text to send from another linked module even though the same code executes within the root app.js file. But man am I having fun!
+
+### Day 4: Feb 25th, 2020
+
+#### Today's Progress
+- Built out the text conversation back and forth to take in parameters
+- Store parameters in a separate file to be referenced
+- Fixed bug with Twilio, needed to have the headers and stuff set at the bottom of each message
+
+#### Thoughts:
+So fun! It's amazing to see tangible results like having a text conversation that responds back to you according to what you tell it.
