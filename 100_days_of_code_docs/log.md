@@ -36,3 +36,11 @@ Stuck, stuck, stuck. Can't get the text to send from another linked module even 
 
 #### Thoughts:
 So fun! It's amazing to see tangible results like having a text conversation that responds back to you according to what you tell it.
+
+### Day 5: Feb 26th, 2020
+
+#### Today's Progress
+- Project Planning
+
+#### Thoughts:
+Didn't do any coding, but sat down and sudo coded out the project. First time sudo coding! Interesting. Used a gsheet.
