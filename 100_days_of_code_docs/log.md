@@ -44,3 +44,13 @@ So fun! It's amazing to see tangible results like having a text conversation tha
 
 #### Thoughts:
 Didn't do any coding, but sat down and sudo coded out the project. First time sudo coding! Interesting. Used a gsheet.
+
+### Day 6: Feb 29th, 2020
+
+#### Today's Progress
+- Refactored code to split text converstion into 5 different search pages
+- Set up express-sessions to have custom session id's for the different searches
+- Completed the text conversation back and forth for search 1
+
+#### Thoughts:
+Lots of good progress tonight! Programmed for 2.5 hours like it was nuthin'. Really am enjoying express-sessions so far.
