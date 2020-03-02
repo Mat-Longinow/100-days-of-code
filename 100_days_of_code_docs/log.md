@@ -54,3 +54,13 @@ Didn't do any coding, but sat down and sudo coded out the project. First time su
 
 #### Thoughts:
 Lots of good progress tonight! Programmed for 2.5 hours like it was nuthin'. Really am enjoying express-sessions so far.
+
+### Day 7: Mar 1, 2020
+
+#### Today's Progress
+- Duplicated search 1 logic into search 2 and 3 files
+- Changed it so that instead of setting a value from text req body, it is now pushing to an array as the value so that
+it can hold all the other results of like kind.
+
+#### Thoughts:
+When you think ahead of how to best write your code to be able to be replicated and scaled, once you do try and scale it, it makes things SO much faster.
