@@ -64,3 +64,12 @@ it can hold all the other results of like kind.
 
 #### Thoughts:
 When you think ahead of how to best write your code to be able to be replicated and scaled, once you do try and scale it, it makes things SO much faster.
+
+### Day 8: Mar 10, 2020
+
+#### Today's Progress
+- Finished Twilio text conversation back and forth (oof lots of logic)
+- Started scrape.js file for the target site
+
+#### Thoughts:
+Technically cheating since it's been like a week. But man, this past week was tough. But I am glad to be back at it again.
