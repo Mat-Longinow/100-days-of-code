@@ -73,3 +73,19 @@ When you think ahead of how to best write your code to be able to be replicated 
 
 #### Thoughts:
 Technically cheating since it's been like a week. But man, this past week was tough. But I am glad to be back at it again.
+
+### Day 9: Mar 11, 2020
+
+#### Today's Progress
+- Got my scrape script to travel to target location
+
+#### Thoughts:
+Got stuck on puppeteer stuff. Makes me miss/appreciate Cypress. Confusing how puppeteer is set up. But, feels like I am very close to what I am looking for.
+
+### Day 10: Mar 12, 2020
+
+#### Today's Progress
+- Stuck on scrape not getting to the search frame
+
+#### Thoughts:
+Got stuck on puppeteer stuff again. Trying to manipulate cookies currently.
