@@ -89,3 +89,12 @@ Got stuck on puppeteer stuff. Makes me miss/appreciate Cypress. Confusing how pu
 
 #### Thoughts:
 Got stuck on puppeteer stuff again. Trying to manipulate cookies currently.
+
+### Day 11: Mar 14, 2020
+
+#### Today's Progress
+- Got unstuck, now able to access iframes
+- Found out how to manipulate selects on iframe
+
+#### Thoughts:
+Super fun. Tonight was a brain teaser, but figured out how to use puppeteer a little bit more. While I much prefer Cypress, puppeteer is growing on me.
