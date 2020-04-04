@@ -10,3 +10,12 @@
 #### Thoughts:
 I found out I am a 4 ont the enneagram. No wonder this is round 5. But man is that motivating.
 App wise, not sure how I am going to get an actual flight to test with?
+
+### Day 2: April 3, 2020
+
+#### Today's Progress
+- Creted converter
+- Learned more about date/time manipulation
+
+#### Thoughts:
+Man, tonight was awesome. I programmed for like 2.5 hours and loved it. Working with how to manipulate strings and date/times was super interesting.
