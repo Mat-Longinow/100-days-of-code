@@ -19,3 +19,11 @@ App wise, not sure how I am going to get an actual flight to test with?
 
 #### Thoughts:
 Man, tonight was awesome. I programmed for like 2.5 hours and loved it. Working with how to manipulate strings and date/times was super interesting.
+
+### Day 3: April 5, 2020
+
+#### Today's Progress
+- Hooked up converter to scrape and tested passing in data to converter to see how it outputted
+
+#### Thoughts:
+Data converter worked like a charm! Interesting moment tonight where I was wondering where I should try and organize all my locations of scripts/var declarations within the file. Still not entirely sure how to organize code super well.
