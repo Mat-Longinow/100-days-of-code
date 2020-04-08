@@ -27,3 +27,11 @@ Man, tonight was awesome. I programmed for like 2.5 hours and loved it. Working 
 
 #### Thoughts:
 Data converter worked like a charm! Interesting moment tonight where I was wondering where I should try and organize all my locations of scripts/var declarations within the file. Still not entirely sure how to organize code super well.
+
+### Day 4: April 7, 2020
+
+#### Today's Progress
+- Hooked up up text convo to pass real data being oulled from texts to scrape
+
+#### Thoughts:
+Felt pretty wiped tonight, but things went pretty smoothly actually. Getting very close to actually having a working prototype.
