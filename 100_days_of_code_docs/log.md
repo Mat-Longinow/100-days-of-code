@@ -35,3 +35,13 @@ Data converter worked like a charm! Interesting moment tonight where I was wonde
 
 #### Thoughts:
 Felt pretty wiped tonight, but things went pretty smoothly actually. Getting very close to actually having a working prototype.
+
+### Day 5: April 12, 2020
+
+#### Today's Progress
+- Refactored code so I could use my already written code to translate dates for the scraper
+- Setting up Test Creds for Twilio
+
+#### Thoughts:
+Ran into weird quirks with Twilio. Twilio is really helpful to get you up and running fast, but man oh man their documentation beyond that is pretty darn bad. Frustrated.
+
