@@ -45,3 +45,11 @@ Felt pretty wiped tonight, but things went pretty smoothly actually. Getting ver
 #### Thoughts:
 Ran into weird quirks with Twilio. Twilio is really helpful to get you up and running fast, but man oh man their documentation beyond that is pretty darn bad. Frustrated.
 
+### Day 6: April 20, 2020
+
+#### Today's Progress
+- More research into Twilio's test credentials
+- Found out where to see SMS logs for pricing purposes
+
+#### Thoughts:
+Twilio is not my favorite right now.
