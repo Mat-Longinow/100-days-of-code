@@ -1,18 +1,9 @@
 # 100 Days Of Code - Log
 
-### Day 1: May 12th, 2020
+### Day 1: June 7th, 2020
 
 #### Today's Progress
-- Fixed some bugs in the data converter
+- React Crash Course - Set up Components and rendered them, passing in some props along the way/beginning to manipulate state
 
 #### Thoughts:
-Glad to be back at it again. Login creds were failing so need to reach out and see what is going on. In the meantime, took a look at my second project after this. Need to learn some React!
-
-### Day 2: May 19th, 2020
-
-#### Today's Progress
-- Dug through the React framework main files and folders
-- Started on a todo list for React
-
-#### Thoughts:
-Working through Traversy Media's React Tutorial. This time around with React I feel like it is actually clicking! Yay!
+Back up on the horse, let's ride. It felt like React actually started to click some tonight. I remember taking a whack at Reach like a year ago and it felt like Chinese. It's cool to see it start clicking. I think it helped that I spent some time in Pug which does something similar.
