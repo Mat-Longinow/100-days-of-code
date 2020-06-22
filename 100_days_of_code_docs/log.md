@@ -1,9 +1,17 @@
 # 100 Days Of Code - Log
 
-### Day 1: June 7th, 2020
+### Day 1: June 20th, 2020
 
 #### Today's Progress
-- React Crash Course - Set up Components and rendered them, passing in some props along the way/beginning to manipulate state
+- Learning how to pass data into props and then work up the React tree of components to get to state
 
 #### Thoughts:
-Back up on the horse, let's ride. It felt like React actually started to click some tonight. I remember taking a whack at Reach like a year ago and it felt like Chinese. It's cool to see it start clicking. I think it helped that I spent some time in Pug which does something similar.
+--
+
+### Day 2: June 21st, 2020
+
+#### Today's Progress
+- Learned about .bind() and this inside of JS and objects
+
+#### Thoughts:
+Another round, but this is day two! So that's good. Man, some parts of JS are difficult. Also, React is not quite as easy as I imagined, but I imagine that it is the whole "feels hard until you learn it and then realize it's not all that bad" concept.
