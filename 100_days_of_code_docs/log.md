@@ -15,3 +15,11 @@
 
 #### Thoughts:
 Another round, but this is day two! So that's good. Man, some parts of JS are difficult. Also, React is not quite as easy as I imagined, but I imagine that it is the whole "feels hard until you learn it and then realize it's not all that bad" concept.
+
+### Day 3: June 23rd, 2020
+
+#### Today's Progress
+- More reasearch on bind, this and function scoping
+
+#### Thoughts:
+React is tricky, though I have mainly been stuck in my walkthrough by having to dive in and understand some more scope stuff with functions and specifically this, bind and function scoping.
