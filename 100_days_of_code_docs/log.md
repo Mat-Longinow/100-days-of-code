@@ -23,3 +23,19 @@ Another round, but this is day two! So that's good. Man, some parts of JS are di
 
 #### Thoughts:
 React is tricky, though I have mainly been stuck in my walkthrough by having to dive in and understand some more scope stuff with functions and specifically this, bind and function scoping.
+
+### Day 4: July 1st, 2020
+
+#### Today's Progress
+- Almost have bind sorted out
+
+#### Thoughts:
+Gah React...
+
+### Day 5: July 3rd, 2020
+
+#### Today's Progress
+- Started work on my React app
+
+#### Thoughts:
+Huzzah! A buddy of mine from worked walked me through some major React core pieces. I feel much more comfortable with it now and have started actually developing with it! Time to build. Yasss.
