@@ -39,3 +39,11 @@ Gah React...
 
 #### Thoughts:
 Huzzah! A buddy of mine from worked walked me through some major React core pieces. I feel much more comfortable with it now and have started actually developing with it! Time to build. Yasss.
+
+### Day 5: July 3rd, 2020
+
+#### Today's Progress
+- Set up my app with a basic Express backend server file
+
+#### Thoughts:
+Feels good to put two seperate puzzle pieces I have spent time learning together finally. Now just to make it work... 🤔
